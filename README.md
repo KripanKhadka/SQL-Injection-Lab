@@ -41,6 +41,23 @@ Simulate and exploit SQL Injection vulnerability in a web application using both
 <img width="775" height="549" alt="image" src="https://github.com/user-attachments/assets/78c61bf6-e822-46dd-9e31-cd2ac4852f1e" />
 
 
+
+## Using BurpSuite 
+
+<img width="299" height="55" alt="image" src="https://github.com/user-attachments/assets/215e3ad3-6aef-4f2f-be51-12d9d3c34357" />
+
+
+<img width="1696" height="785" alt="image" src="https://github.com/user-attachments/assets/3bd5ca3c-5e37-409c-b339-cdf2d2537804" />
+
+
+<img width="1656" height="758" alt="image" src="https://github.com/user-attachments/assets/a6861d43-54fb-404a-8bdf-f8065238d26d" />
+
+
+
+
+
+
+
  
 
  
