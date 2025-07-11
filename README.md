@@ -10,7 +10,7 @@
 Simulate and exploit SQL Injection vulnerability in a web application using both manual and automated tools.
 
 ## 🛠 Steps Performed
-1. Set up DVWA on localhost via XAMPP.
+1. Set up DVWA on localhost .
 2. Logged into DVWA and set security level to low.
 3. Used Burp Suite to intercept vulnerable login request.
 4. Used SQLMap to automate data extraction from the backend.
