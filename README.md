@@ -24,6 +24,10 @@ Simulate and exploit SQL Injection vulnerability in a web application using both
  -Installed DVWA
  <img width="1571" height="696" alt="image" src="https://github.com/user-attachments/assets/d75639ec-0627-417c-b5c5-39c5694a2349" />
  
+-Set security to low
+ <img width="1169" height="572" alt="image" src="https://github.com/user-attachments/assets/6e863a52-6c23-4769-99ef-8cb11c714793" />
+
+ 
 
  <img width="357" height="33" alt="image" src="https://github.com/user-attachments/assets/a3abced5-bc41-44e4-ae39-41e28f3ba60e" />
 
